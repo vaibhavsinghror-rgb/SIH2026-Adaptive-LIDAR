@@ -1,0 +1,16 @@
+dataset:
+  root_dir: "d:/project/sequences"
+  sequence: "00"
+
+foveated_grid:
+  near_radius: 10.0
+  near_resolution: 0.05
+  mid_radius: 30.0
+  mid_resolution: 0.20
+  far_radius: 60.0
+  far_resolution: 0.50
+  maximum_range: 100.0
+
+visualization:
+  show_points: true
+  show_grid: true

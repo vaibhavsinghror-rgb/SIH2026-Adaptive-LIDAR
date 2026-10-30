@@ -1,0 +1,6 @@
+torch>=2.0.0
+torchvision
+open3d>=0.17.0
+numpy>=1.22.0
+scipy>=1.9.0
+pyyaml>=6.0
